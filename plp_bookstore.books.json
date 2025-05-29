@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "6838894c4e2f7d01f3a6eebc"
+  },
+  "title": "The Silent Patient",
+  "author": "Alex Michaelides",
+  "genre": "Thriller",
+  "published_year": 2019,
+  "price": 18.99,
+  "in_stock": true,
+  "pages": 336,
+  "publisher": "Celadon Books"
+},
+{
+  "_id": {
+    "$oid": "68388ad94e2f7d01f3a6eebd"
+  },
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "genre": "Self-help",
+  "published_year": 2018,
+  "price": 16.2,
+  "in_stock": true,
+  "pages": 320,
+  "publisher": "Penguin Publishing"
+},
+{
+  "_id": {
+    "$oid": "68388b824e2f7d01f3a6eebe"
+  },
+  "title": "Educated",
+  "author": "Tara Westover",
+  "genre": "Memoir",
+  "published_year": 2018,
+  "price": 14.5,
+  "in_stock": false,
+  "pages": 352,
+  "publisher": "Random House"
+},
+{
+  "_id": {
+    "$oid": "68388be94e2f7d01f3a6eebf"
+  },
+  "title": "The Midnight Library",
+  "author": "Matt Haig",
+  "genre": "Fiction",
+  "published_year": 2020,
+  "price": 13.99,
+  "in_stock": true,
+  "pages": 304,
+  "publisher": "Canongate Books"
+},
+{
+  "_id": {
+    "$oid": "68388c814e2f7d01f3a6eec0"
+  },
+  "title": "Where the Crawdads Sing",
+  "author": "Delia Owens",
+  "genre": "Mystery",
+  "published_year": 2018,
+  "price": 15.99,
+  "in_stock": false,
+  "pages": 384,
+  "publisher": "G.P. Putnam's Sons"
+},
+{
+  "_id": {
+    "$oid": "68388d7e4e2f7d01f3a6eec2"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "genre": "Adventure",
+  "published_year": 1988,
+  "price": 19.99,
+  "in_stock": true,
+  "pages": 208,
+  "publisher": "HarperOne"
+},
+{
+  "_id": {
+    "$oid": "68388de94e2f7d01f3a6eec3"
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "genre": "Science Fiction",
+  "published_year": 1965,
+  "price": 12.49,
+  "in_stock": false,
+  "pages": 412,
+  "publisher": "Chilton Books"
+},
+{
+  "_id": {
+    "$oid": "68388e4d4e2f7d01f3a6eec4"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Classic",
+  "published_year": 1960,
+  "price": 11.99,
+  "in_stock": true,
+  "pages": 281,
+  "publisher": "J.B. Lippincott & Co."
+},
+{
+  "_id": {
+    "$oid": "68388e9a4e2f7d01f3a6eec5"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "genre": "Dystopian",
+  "published_year": 1949,
+  "price": 9.99,
+  "in_stock": true,
+  "pages": 328,
+  "publisher": "Secker & Warburg"
+}]
